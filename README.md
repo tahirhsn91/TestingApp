@@ -1,4 +1,2 @@
 TestingApp
 ==========
-Tahir
-=====
