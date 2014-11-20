@@ -29,7 +29,6 @@ namespace WindowsFormsApplication1
             button3_Click(null, null);
         }
 
-
         private void button1_Click(object sender, EventArgs e)
         {
             geckoWebBrowser1.GoBack();
